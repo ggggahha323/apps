@@ -7,7 +7,7 @@
   "private": true,
   "version": "0.95.2-6",
   "license": "Apache-2",
-  "homepage": ".",
+  "homepage": "https://ggggahha323.github.io/apps",
   "workspaces": [
     "packages/*"
   ],
